@@ -1,0 +1,69 @@
+{
+  "name": "Zentra - Everything Anime, One Place",
+  "short_name": "Zentra",
+  "description": "Platform anime super app terlengkap dengan streaming, wiki, AI assistant, dan lebih banyak lagi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1020",
+  "theme_color": "#0B1020",
+  "orientation": "portrait-primary",
+  "lang": "id",
+  "categories": [
+    "entertainment",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "icons/logo-z.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "icons/screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Jelajahi Anime",
+      "short_name": "Jelajahi",
+      "url": "/#explore",
+      "icons": [
+        {
+          "src": "icons/icon-96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Zentra AI",
+      "short_name": "AI",
+      "url": "/#ai",
+      "icons": [
+        {
+          "src": "icons/icon-96.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
